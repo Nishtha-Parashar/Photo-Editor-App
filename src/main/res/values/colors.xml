@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="bg_color">#8f7d95</color>
+    <color name="camera_color">#8c08ba</color>
+    <color name="gallery_color">#e201e5</color>
+    <color name="box_color">#dbf5f9</color>
+
+
+</resources>
