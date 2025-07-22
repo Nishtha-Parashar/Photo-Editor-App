@@ -28,7 +28,7 @@ An Android application built in Java that allows users to edit images using the 
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/PhotoEditor.git
+   git clone https://github.com/Nishtha-Parashar/Photo-Editor-App.git
    cd PhotoEditor
 ````
 
@@ -49,16 +49,6 @@ An Android application built in Java that allows users to edit images using the 
 5. **Build and Run the app**
 
    * Connect a device or use emulator, then hit **Run**
-
----
-
-## 📸 Screenshots
-
-| Home Screen                 | Editor Screen               |
-| --------------------------- | --------------------------- |
-| *(Insert screenshots here)* | *(Insert screenshots here)* |
-
----
 
 ## 📂 Project Structure
 
